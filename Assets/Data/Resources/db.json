@@ -1,0 +1,62 @@
+[
+  {
+    "id":"1",
+    "name":"Mandragora",
+    "desc":"When pulled from the ground against its will, it produces an unbearable scream that knocks everyone around it unconscious.",
+    "tier":"1"
+  },
+  {
+    "id":"2",
+    "name":"Argemona",
+    "desc":"Its body contains enough deadly toxins to wipe out a human city.",
+    "tier":"2"
+  },
+  {
+    "id":"3",
+    "name":"Kitsune",
+    "desc":"Greater number of tails indicates an older, wiser and more powerful Kitsune.",
+    "tier":"1"
+  },
+  {
+    "id":"4",
+    "name":"Kappa",
+    "desc":"It lives on banks of rivers and ponds, playing pranks on unsuspecting travellers.",
+    "tier":"1"
+  },
+  {
+    "id":"5",
+    "name":"Sahuagin",
+    "desc":"Using fog to disguise itself, it gets close to the prey and drags it underwater.",
+    "tier":"2"
+  },
+  {
+    "id":"6",
+    "name":"Harpy",
+    "desc":"It will try to snatch away anything that catches its eye, though it will likely forget about the thing right away.",
+    "tier":"1"
+  },
+  {
+    "id":"7",
+    "name":"Siren",
+    "desc":"Possessing a beautiful singing voice, it lures sailors on sea rocks to scavenge on shipwrecks.",
+    "tier":"2"
+  },
+  {
+    "id":"8",
+    "name":"Merrow",
+    "desc":"An ambivalent creature that longs for the sea when on land and for land when in the sea.",
+    "tier":"1"
+  },
+  {
+    "id":"9",
+    "name":"Werebat",
+    "desc":"Good sense of smell and outstanding hearing allows it to hunt in pitch-dark places.",
+    "tier":"1"
+  },
+  {
+    "id":"10",
+    "name":"Angel",
+    "desc":"Believed to be characters of legends, these creatures only show themselves to humans in times of great trouble.",
+    "tier":"3"
+  },
+]
