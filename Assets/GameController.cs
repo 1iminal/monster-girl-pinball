@@ -312,7 +312,8 @@ public class GameController : MonoBehaviour
 
     private void roll()
     {
-        summoned = Random.Range(1, db.count);
+        summoned = Random.Range(0, db.count);
+        summoned++;
         sprite.sprite = db.get(summoned).sprite;
         setupTint();
         showCutscene();

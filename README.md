@@ -6,4 +6,4 @@ Unity Essentials Pathway submission for Challenge: Sprite pachinko
 
 Music taken from [https://assetstore.unity.com/packages/audio/music/electronic/retro-fit-adventure-free-8-bit-video-game-music-205627](https://assetstore.unity.com/packages/audio/music/electronic/retro-fit-adventure-free-8-bit-video-game-music-205627)
 
-YOU MAY NOT USE MONSTER GIRLS SPRITES FOR ANY OTHER WORK, COMMERCIAL OR NOT, INCLUDING NFTs.
+YOU MAY NOT USE MONSTER GIRL SPRITES FOR ANY OTHER WORK, COMMERCIAL OR NOT, INCLUDING NFTs.
